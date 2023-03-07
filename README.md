@@ -1,7 +1,7 @@
 # Portfólio
 Olá, Bem vindo ao meu projeto de portfólio desenvolvido nas aulas de HTML e CSS da Alura.
 
-![Captura de tela_20230208_160544](https://user-images.githubusercontent.com/121730814/217633786-9ba43611-dacd-4fe3-bddb-f4e92cb9a90c.png)
+![imagem kaio ferreira](https://user-images.githubusercontent.com/121730814/223511687-ae865071-a59a-481c-9833-dabafcc77eea.png)
 
 
 ## Ferramentas utilizadas:
